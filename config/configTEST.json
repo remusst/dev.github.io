@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4d2748a4071499c5bfe9dc35a86289c35933281f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x4d2748a4071499c5bfe9dc35a86289c35933281f",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "InsigniaeSOL",
+  "SYMBOL": "ISOL",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/insigniaesol",
+  "SHOW_BACKGROUND": true
+}

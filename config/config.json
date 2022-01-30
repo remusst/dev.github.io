@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x991bBC1C2586F865467a7868eD7259615361E3f3",
-  "SCAN_LINK": "https://polygonscan.com/address/0x991bbc1c2586f865467a7868ed7259615361e3f3",
+  "CONTRACT_ADDRESS": "0x43c0EAbD526a9f2060c092b39da4BA982B0762e0",
+  "SCAN_LINK": "https://polygonscan.com/token/0x43c0eabd526a9f2060c092b39da4ba982b0762e0",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "InsigniaePY",
-  "SYMBOL": "IPY",
+  "NFT_NAME": "InsigniaeJS",
+  "SYMBOL": "IJS",
   "MAX_SUPPLY": 333,
   "WEI_COST": 20000000000000000000,
   "DISPLAY_COST": 20,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/insigniaepy",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/insigniaejs",
   "SHOW_BACKGROUND": true
 }

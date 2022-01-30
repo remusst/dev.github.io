@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x991bBC1C2586F865467a7868eD7259615361E3f3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x991bbc1c2586f865467a7868ed7259615361e3f3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "InsigniaePY",
+  "SYMBOL": "IPY",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/insigniaepy",
+  "SHOW_BACKGROUND": true
+}
